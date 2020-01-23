@@ -63,6 +63,9 @@
 
 > A Vue.js 2.0 UI Toolkit for Web.
 
+## IMPORTANT INFO
+- This module was CUSTOMIZED and CHANGED by Robin Leber.
+
 ## Links
 - Homepage and documentation
   - [International users](http://element.eleme.io/#/en-US)
